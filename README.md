@@ -4,4 +4,4 @@ Arquivos Compacta
 Office 
 Impressoras 
 Any Desk 
-Pacote Instalaçãocpadrão
+Pacote Instalação padrão
